@@ -1,0 +1,1 @@
+gcc -o HAFMAN HAFMAN.C 2> gccmessages 
